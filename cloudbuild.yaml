@@ -105,4 +105,4 @@ options:
     - CLOUDSDK_COMPUTE_ZONE=asia-northeast1-a
     - CLOUDSDK_CONTAINER_CLUSTER=cluster-1
 substitutions:
-    _PROJECT_NAME: delivery
+    _PROJECT_NAME: user19-delivery
